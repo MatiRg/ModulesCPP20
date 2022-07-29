@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1658941076 source:c:\users\mateusz\desktop\software\modules\main.cpp
+	<iostream>
+
+1658942635 source:c:\users\mateusz\desktop\software\modules\hello.cpp
+	<cmath>
+
+1658942635 source:c:\users\mateusz\desktop\software\modules\hello2.cpp
+	<cmath>
+
